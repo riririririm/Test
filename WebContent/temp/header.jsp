@@ -98,17 +98,23 @@
   }
   /* .navbar li a, .navbar .navbar-brand { 
     color: #d5d5d5 !important;
-  }
+  }*/
   .navbar-nav li a:hover {
-    color: #fff !important;
-  } */
- /*  .navbar-nav li.active a {
-    color: #fff !important;
-    background-color: white !important;
+    color: #555 !important;
+    
   } 
-  /* .navbar-default .navbar-toggle {
+   .navbar-nav li a {
+    color: #555 !important;
+     border-left: 1px solid #555;
+  } 
+   .navbar-nav li.active a {
+    color: #555 !important;
+    background-color: white !important;
+   
+  } 
+   .navbar-default .navbar-toggle {
     border-color: transparent;
-  } */
+  } 
   .open .dropdown-toggle {
     color: #fff;
     background-color: #555 !important;
