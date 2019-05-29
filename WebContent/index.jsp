@@ -8,7 +8,7 @@
 <jsp:include page="./temp/bootstrap.jsp"/>
 <style type="text/css">
 	.container{
-		min-height: 800px;
+		min-height: 1000px;
 	}
 </style>
 </head>
@@ -31,7 +31,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="./images/burger.png" alt="New York" width="1200" height="700">
+        <img src="./images/event.jpg" alt="New York" width="1200" height="700">
         <div class="carousel-caption">
           <h3>New York</h3>
           <p>The atmosphere in New York is lorem ipsum.</p>
@@ -47,7 +47,7 @@
       </div>
     
       <div class="item">
-        <img src="./images/cafe.png" alt="Los Angeles" width="1200" height="700">
+        <img src="./images/event.jpg" alt="Los Angeles" width="1200" height="700">
         <div class="carousel-caption">
           <h3>LA</h3>
           <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
