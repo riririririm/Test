@@ -69,7 +69,6 @@
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
   }
-
   .btn {
     padding: 10px 20px;
     background-color: #333;
@@ -94,7 +93,6 @@
   .nav-tabs li a {
     color: #777;
   }
-
   .navbar {
     font-family: 'NanumGothic','나눔고딕','맑은 고딕','Malgun Gothic','돋움',dotum,'Apple SD Gothic Neo',sans-serif;
     font-weight:bold;
@@ -139,19 +137,7 @@
   }
   .dropdown-menu li a:hover {
     background-color: red !important;
-  }
-  footer {
-    background-color: #2d2d30;
-    color: #f5f5f5;
-    padding: 32px;
-  }
-  footer a {
-    color: #f5f5f5;
-  }
-  footer a:hover {
-    color: #777;
-    text-decoration: none;
-  }  
+  } 
   .form-control {
     border-radius: 0;
   }
@@ -192,11 +178,5 @@
 
 		</div>
 </nav>
-
-
-
-
-
-
 </body>
 </html>
