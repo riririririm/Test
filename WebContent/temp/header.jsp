@@ -22,9 +22,7 @@
     color: #111;
   }
  
-  .container{
-  	width:100%;
-  }
+  
   #nav_con{
   	width:55%;
   	margin: 0 auto;
@@ -140,18 +138,7 @@
   .dropdown-menu li a:hover {
     background-color: red !important;
   }
-  footer {
-    background-color: #2d2d30;
-    color: #f5f5f5;
-    padding: 32px;
-  }
-  footer a {
-    color: #f5f5f5;
-  }
-  footer a:hover {
-    color: #777;
-    text-decoration: none;
-  }  
+  
   .form-control {
     border-radius: 0;
   }
